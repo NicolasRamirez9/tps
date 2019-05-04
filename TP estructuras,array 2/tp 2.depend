@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1538338507 source:c:\users\alumno\desktop\tp_laboratorio_2-master\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538338591 c:\users\alumno\desktop\tp_laboratorio_2-master\tp 2\arrayemployees.h
+
+1538344842 source:c:\users\alumno\desktop\tp_laboratorio_2-master\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ARRAYEMPLOYEES.h"
+
+1538346643 source:c:\users\alumno\desktop\tp_laboratorio_1\tp estructuras,array 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ARRAYEMPLOYEES.H"
+
+1538338591 c:\users\alumno\desktop\tp_laboratorio_1\tp estructuras,array 2\arrayemployees.h
+
+1538356722 source:c:\users\alumno\desktop\tp_laboratori\tp estructuras,array 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538356723 c:\users\alumno\desktop\tp_laboratori\tp estructuras,array 2\arrayemployees.h
+
+1538356723 source:c:\users\alumno\desktop\tp_laboratori\tp estructuras,array 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1556941302 source:c:\users\elias\onedrive\escritorio\tps prog 1\tp estructuras,array 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"string.h"
+
+1556940231 c:\users\elias\onedrive\escritorio\tps prog 1\tp estructuras,array 2\arrayemployees.h
+
+1556939775 source:c:\users\elias\onedrive\escritorio\tps prog 1\tp estructuras,array 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"string.h"
+
+1556941170 c:\users\elias\onedrive\escritorio\tps prog 1\tp estructuras,array 2\string.h
+
+1556941332 source:c:\users\elias\onedrive\escritorio\tps prog 1\tp estructuras,array 2\string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"string.h"
+
